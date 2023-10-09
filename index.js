@@ -7,7 +7,7 @@ $(function(){  //코드를 바깥쪽에 적어서 제이쿼리 실행
     
     //모달창 클릭시 동작하는 코드
     $(".modal_content").click(function(){ //class로 선언해둔 modal_content안의 영역을 클릭하면 
-      $(".modal").fadeOut();//클릭했을때 사라지게 한느 코드 페이드아웃을 이용함
+      $(".modal").fadeOut();//클릭했을때 사라지게 하는 코드 페이드아웃을 이용함
     });
     
   });
